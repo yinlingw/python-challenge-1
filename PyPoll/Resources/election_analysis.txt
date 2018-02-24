@@ -1,0 +1,6 @@
+Election Results
+--------------------------
+[('Vestal', 385440), ('Torres', 353320), ('Seth', 40150), ('Cordin', 24090)]
+--------------------------
+Winner: ('Vestal', 385440)
+Total Votes 803000
